@@ -85,3 +85,7 @@ a[href$=".html"] {
 .contactsheet {
     line-height: 2.0em;
 }
+
+.contacttitle {
+    border-bottom: 1px dotted #ccc;
+}
