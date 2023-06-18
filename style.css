@@ -16,13 +16,14 @@ h1 {
 }
 
 p {
-
+    line-height: 1.5em;
 }
 
 #blog {
+    border-top: 1px dotted #ccc;
 
 }
 
 .blog-post {
-
+    border-bottom: 1px dotted #ccc;
 }
