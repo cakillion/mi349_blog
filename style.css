@@ -31,3 +31,7 @@ p {
 a[href$=".html"] {
     color: crimson;
 }
+
+.author {
+    margin: 0px;
+}
