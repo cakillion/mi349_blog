@@ -36,6 +36,7 @@ a[href$=".html"] {
     color: crimson;
 }
 
-.author {
-    margin: 0px;
+.para {
+    position: relative;
+    left: 15px;
 }
