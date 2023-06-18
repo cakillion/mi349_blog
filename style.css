@@ -34,6 +34,11 @@ p {
     line-height: 1.5em;
 }
 
+.hal {
+    width: 60px;
+    height: auto;
+}
+
 #blog {
     border-top: 1px dotted #ccc;
     display: flex;
@@ -59,7 +64,4 @@ a[href$=".html"] {
     float: right;
 }
 
-.hal {
-    width: 60px;
-    height: auto;
-}
+
