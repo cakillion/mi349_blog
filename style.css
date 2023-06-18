@@ -6,7 +6,6 @@ header {
     background: #fff;
     position: sticky;
     top: 0;
-    margin-bottom: 10px;
 }
 
 body {
@@ -47,4 +46,8 @@ a[href$=".html"] {
 .para {
     position: static;
     margin-left: 15px;
+}
+
+#article {
+    display: flex;
 }
