@@ -87,9 +87,9 @@ a[href$=".html"] {
 }
 
 .contacttitle {
-    border-bottom: 1px dotted #ccc;
+    border-bottom: 1px dotted darkslategrey;
 }
 
 .form {
-    background-color: lightslategray;
+    background-color: lightgrey;
 }
