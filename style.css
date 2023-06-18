@@ -6,7 +6,6 @@ header {
     background: #fff;
     position: sticky;
     top: 0;
-    bottom: 5px;
 }
 
 body {
@@ -45,6 +44,6 @@ a[href$=".html"] {
 }
 
 .para {
-    position: static;
+    position: relative;
     left: 15px;
 }
