@@ -58,3 +58,9 @@ a[href$=".html"] {
     height: auto;
     float: right;
 }
+
+.hal {
+    width: 100px;
+    height: auto;
+    float: right;
+}
