@@ -1,7 +1,10 @@
-
+html {
+    background: #e3e3e3;
+}
 body {
     font-family: monospace;
     margin: 45px;
+    padding: 45px;
     color: darkslategray;
     border-top: 8px solid darkslategrey;
     background: #fff;
