@@ -49,5 +49,7 @@ a[href$=".html"] {
 }
 
 .pic {
+    width: 200px;
+    height: auto;
     float: left;
 }
