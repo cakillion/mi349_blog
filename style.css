@@ -81,3 +81,7 @@ a[href$=".html"] {
 .list {
     line-height: 1.5em;
 }
+
+.contactsheet {
+    line-height: 2.0em;
+}
