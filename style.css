@@ -63,4 +63,9 @@ a[href$=".html"] {
     float: right;
 }
 
+.table {
+    position: static;
+    margin-right: 15px;
+}
+
 
