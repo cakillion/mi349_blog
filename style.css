@@ -28,6 +28,6 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 
-a[title] {
-    color: #000;
+a[href$=".html"] {
+    color: crimson;
 }
