@@ -54,7 +54,6 @@ a[href$=".html"] {
     float: right;
 }
 
-.table {
+.flex {
     display: flex;
-    
 }
