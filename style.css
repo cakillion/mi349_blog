@@ -44,6 +44,6 @@ a[href$=".html"] {
 }
 
 .para {
-    position: relative;
-    left: 15px;
+    position: static;
+    margin-left: 15px;
 }
