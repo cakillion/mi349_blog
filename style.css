@@ -48,6 +48,6 @@ a[href$=".html"] {
     margin-left: 15px;
 }
 
-#article {
-    display: flex;
+.pic {
+    float: left;
 }
