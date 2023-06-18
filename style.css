@@ -1,6 +1,13 @@
 html {
     background: #e3e3e3;
 }
+
+header {
+    background: #fff;
+    position: sticky;
+    top: 0;
+}
+
 body {
     font-family: monospace;
     margin: 45px;
@@ -8,12 +15,6 @@ body {
     color: darkslategray;
     border-top: 8px solid darkslategrey;
     background: #fff;
-}
-
-header {
-    background: #fff;
-    position: sticky;
-    top: 0;
 }
 
 h1 {
