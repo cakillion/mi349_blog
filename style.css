@@ -69,4 +69,7 @@ a[href$=".html"] {
     margin-right: 15px;
 }
 
-
+.stockdude {
+    width: 100;
+    height: auto;
+}
