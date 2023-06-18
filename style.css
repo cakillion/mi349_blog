@@ -10,6 +10,10 @@ body {
     background: #fff;
 }
 
+header {
+    display: flex;
+}
+
 h1 {
     font-size: 4ems;
     margin: 0;
@@ -17,7 +21,6 @@ h1 {
 
 h3 {
     margin-bottom: 5px;
-    font-weight: bold;
 }
 
 p {
