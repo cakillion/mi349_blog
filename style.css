@@ -89,3 +89,7 @@ a[href$=".html"] {
 .contacttitle {
     border-bottom: 1px dotted #ccc;
 }
+
+.form {
+    background-color: lightslategray;
+}
