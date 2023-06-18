@@ -1,5 +1,8 @@
 body {
     font-family: monospace;
+    margin: 45px;
+    color: darkslategray;
+    border-top: 8px solid darkslategrey;
 }
 
 h1 {
